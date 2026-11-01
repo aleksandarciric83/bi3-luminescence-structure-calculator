@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bi3-luminescence-structure-calculator"
+version = "2.0.0"
+description = "Optical properties of Bi3+-doped inorganic solids from crystal structure"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit>=1.32,<2",
+    "numpy>=1.24,<3",
+    "pandas>=2.0,<4",
+    "matplotlib>=3.7,<4",
+]
+
+[project.scripts]
+bi3-calculator = "bi3_launcher:main"
+
+[tool.setuptools]
+py-modules = ["bi3_app", "bi3_desktop", "bi3_engine", "bi3_export", "bi3_format", "bi3_launcher", "bi3_plots", "bi3_validate"]

@@ -1,0 +1,10 @@
+# Citation file. Authors, title and DOI of the software paper are to be completed at publication.
+# The current reference is kept at https://omasgroup.org/citation2.json (the program loads it from there).
+cff-version: 1.2.0
+message: "If you use this software, please cite the reference given at https://omasgroup.org/citation2.json."
+title: "Bi3+ Luminescence-Structure Calculator"
+version: 2.0.0
+authors:
+  - family-names: "TO BE COMPLETED"
+    given-names: "TO BE COMPLETED"
+# doi: "TO BE COMPLETED"

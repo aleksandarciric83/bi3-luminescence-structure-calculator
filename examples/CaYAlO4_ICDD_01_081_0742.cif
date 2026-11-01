@@ -1,0 +1,29 @@
+data_CaYAlO4_Tetragonal
+_chemical_name_common            'Calcium Yttrium Aluminum Oxide'
+_chemical_formula_structural     'Ca Y Al O4'
+_chemical_formula_sum            'Al1 Ca1 O4 Y1'
+_symmetry_space_group_name_H-M   'I 4 m m'
+_symmetry_Int_Tables_number      107
+_cell_length_a                   3.6451(1)
+_cell_length_b                   3.6451(1)
+_cell_length_c                   11.8743(6)
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_volume                     157.77
+_cell_formula_units_Z            2
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Y   Y   2  a  0.00000  0.00000  0.358609
+Ca  Ca  2  a  0.50000  0.50000  0.143759
+Al  Al  2  a  0.00000  0.00000  0.005330
+O1  O   2  a  0.50000  0.50000  0.332695
+O2  O   2  a  0.00000  0.00000  0.170188
+O3  O   4  b  0.00000  0.50000  0.494709

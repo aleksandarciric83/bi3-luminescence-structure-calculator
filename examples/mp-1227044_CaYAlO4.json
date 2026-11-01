@@ -1,0 +1,62 @@
+{
+  "crystal_structure": {
+    "atomic_positions": [
+      {
+        "wyckoff": "2a",
+        "element": "Ca",
+        "a": "1/2",
+        "b": "1/2",
+        "c": "0.143759"
+      },
+      {
+        "wyckoff": "2a",
+        "element": "Y",
+        "a": "0",
+        "b": "0",
+        "c": "0.358609"
+      },
+      {
+        "wyckoff": "2a",
+        "element": "Al",
+        "a": "0",
+        "b": "0",
+        "c": "0.00533"
+      },
+      {
+        "wyckoff": "2a",
+        "element": "O",
+        "a": "1/2",
+        "b": "1/2",
+        "c": "0.332695"
+      },
+      {
+        "wyckoff": "2a",
+        "element": "O",
+        "a": "0",
+        "b": "0",
+        "c": "0.170188"
+      },
+      {
+        "wyckoff": "4b",
+        "element": "O",
+        "a": "0",
+        "b": "1/2",
+        "c": "0.494709"
+      }
+    ],
+    "symmetry": {
+      "crystal_system": "Tetragonal",
+      "lattice_system": "Tetragonal",
+      "hall_number": "I 4 -2",
+      "international_number": 107,
+      "symbol": "I4mm",
+      "point_group": "4mm"
+    },
+    "structure_meta": {
+      "number_of_atoms": 14,
+      "density": "4.53 g·cm⁻³",
+      "dimensionality": "",
+      "possible_oxidation_states": "Ca²⁺, Y³⁺, O²⁻, Al³⁺"
+    }
+  }
+}
