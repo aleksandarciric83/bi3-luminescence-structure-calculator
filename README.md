@@ -48,4 +48,4 @@ If results of this program are used, please cite the reference published at http
 
 ## Licence
 
-To be chosen by the authors before the first public release.
+GNU General Public License, version 3 (GPL-3.0-only). See the file LICENSE. You may use, study, change and share the program under the terms of that licence; changed versions that you distribute must be offered under the same licence.
